@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 
-<img alt="my image" src="https://github.com/wangaoone/github-stats/blob/master/generated/overview.svg?example=foo&sanitize=true>
+<div align="center">
+
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://github.com/wangaoone/github-stats/blob/master/generated/overview.svg)
+
+</a>
+
+</div>
+
 
 <!--
 **wangaoone/wangaoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
