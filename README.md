@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img alt="my image" src="https://github.com/wangaoone/github-stats/blob/master/generated/overview.svg?example=foo&sanitize=true>
+
 <!--
 **wangaoone/wangaoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
